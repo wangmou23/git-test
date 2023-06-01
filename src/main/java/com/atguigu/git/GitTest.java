@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("hellow git!2");
         System.out.println("hellow git!4");
         System.out.println("master ");
+        System.out.println("hot-fix test");
 
     }
 }
