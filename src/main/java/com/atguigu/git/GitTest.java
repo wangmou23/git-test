@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("hellow git!4");
         System.out.println("master ");
         System.out.println("hot-fix test");
+        System.out.println("1");
         System.out.println("push commit");
 
     }
